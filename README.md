@@ -1,6 +1,6 @@
 ## Hi, I'm Jean Roa (TheSoftwareWizard)
 
-![Header](https://64.media.tumblr.com/38b4efa1b66fb6f3346ea2710551e677/tumblr_mfr69cfQth1qbx1lro2_500.gif)
+![Header](https://64.media.tumblr.com/45e8838541fd263a29f21f92fa625944/4ca026a765e1a6c4-bd/s1280x1920/c2b27e26180c9a5dbfaaf3dc8ac31b958650c114.gif)
 
 <b>Software engineer. I design and build robust, secure, and maintainable systems. I like hard problems and simple solutions that scale.</b>
 
