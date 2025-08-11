@@ -1,14 +1,8 @@
 ## Hi, I'm Jean Roa (TheSoftwareWizard)
 
-![Header](https://i.pinimg.com/1200x/cd/90/c6/cd90c6e61a91986c153aae4ec057bf99.jpg)
+![Header](https://i.redd.it/qsvxmida49241.gif)
 
-Full‑stack software engineer. I design and build robust, secure, and maintainable systems. I like hard problems and simple solutions that scale.
-
-<h3>Quick facts</h3>
-
-- I explore new technologies and leave processes ready so teams can move faster.
-- I work daily in private repositories; public activity doesn't reflect everything I build.
-- I prefer clear code, useful tests, and reproducible deployments.
+Software engineer. I design and build robust, secure, and maintainable systems. I like hard problems and simple solutions that scale.
 
 <h3>Contact</h3>
 
